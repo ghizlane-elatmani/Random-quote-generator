@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://random-quote-generator.netlify.app/">
+    <a href="https://random-quote-generator-ge.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![My Image](/src/img/random-quote-generator.png)
 
-- You can see my demo here: "https://random-quote-generator.netlify.app/"
+- You can see my demo here: "https://random-quote-generator-ge.netlify.app/"
 - Thanks to this project, I practise my skills and learn to work with api.
 - I hope to make more beautifuls websites and become an expert in front-end developmemt :)
 
@@ -88,5 +88,5 @@ $ npm start
 
 ## Contact
 
-- Website [random-quote-generator](https://random-quote-generator.netlify.app/)
+- Website [random-quote-generator](https://random-quote-generator-ge.netlify.app/)
 - GitHub [@ghizlane-elatmani](https://github.com/ghizlane-elatmani)
